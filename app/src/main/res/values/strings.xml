@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleServices</string>
+    <string name="hello">Hello World from ServicesActivity!</string>
+
+</resources>
